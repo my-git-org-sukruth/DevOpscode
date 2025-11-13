@@ -3,4 +3,3 @@ print("Hello")
 DEVOPS
 AUTOMATION
 DOCKER
-YES
