@@ -2,5 +2,4 @@ print("Hello")
 ####
 DEVOPS
 AUTOMATION
-GIT
 DOCKER
